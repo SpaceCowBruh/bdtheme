@@ -1,0 +1,2 @@
+# bdtheme
+Discord Theme
